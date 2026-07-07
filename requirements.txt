@@ -1,0 +1,14 @@
+tensorflow>=2.16
+keras>=3.0
+scikit-learn
+split-folders
+pandas
+numpy
+opencv-python
+matplotlib
+seaborn
+tqdm
+psutil
+pynvml
+Pillow
+keras-cv-attention-models
